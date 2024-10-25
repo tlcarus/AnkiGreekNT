@@ -5,7 +5,7 @@
 * **+Strong's Concordance numbers and Robinson's morphology codes included**
 * **+Full glossary and morphology for each word on hover/click supported on desktop and mobile**\
 \
-![Screenshot of first card while hovering over the word υιου](Screenshot.png)
+![](demo.gif)
 
 There are several very good existing biblical greek decks, mostly separated vocabulary, sorted by frequency. I find that the frequency list approach for languages is statistically good for when the texts you are engaging with are totally random, however if your goal with koine is to simply read the Greek New Testament front to back, then learning words separately by frequency seems moot. Add to this the fact that words are much more easily remembered and better understood when learned in the context of a sentence (the reason I exclusively use sentence cards for modern languages), then you might as well just go verse by verse.
 
